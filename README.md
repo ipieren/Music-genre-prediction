@@ -82,4 +82,4 @@ The ROC Curve for each of the classifier is given below:
 
 # Conclusion and further improvements
 * Default XGBoost proved to be a better model with 93.1% AUC Score indicating that for the dataset at hand, this is a bit better choice than random forest classifier.
-* Further hyperparameter tuning could be used for XGBoost. Since tuning using GridSearch consumes a lot of time, randomSearch method could be employed and the results could be checked accordingly.
+* Further hyperparameter tuning could be used for XGBoost. Since tuning using GridSearch consumes a lot of computational time, randomSearch method could be employed and the results may be improved accordingly.
