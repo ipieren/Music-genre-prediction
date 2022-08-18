@@ -67,13 +67,17 @@ The dataset is cleaned by removing NA values and dropping columns that were not 
 
 The ROC Curve for each of the classifier is given below:
 * Random Forest Classifier
-* 
+
 ![alt_text](https://github.com/ipieren/Music-genre-prediction/blob/main/img/m1_randomforest.PNG)
 
 * XGBoost Classifier (Default)
+
+
 ![alt_text](https://github.com/ipieren/Music-genre-prediction/blob/main/img/m2_defaultXGBoost.PNG)
 
 * XGBoost Classifier (Altered)
+
+
 ![alt_text](https://github.com/ipieren/Music-genre-prediction/blob/main/img/m3_alteredXGBoost.PNG)
 
 # Conclusion and further improvements
