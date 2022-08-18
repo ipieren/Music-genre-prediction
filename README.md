@@ -1,5 +1,6 @@
 # Music Genre Prediction - Project overview
 Data science project based on predicting music genre based on inputs such as popularity, velocity and tempo of the song.
+(Github project link: https://github.com/ipieren/Music-genre-prediction/) 
 
 # Code and resources used
 * Kaggle dataset titled 'Prediction of music genre' : https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre 
