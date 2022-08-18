@@ -49,7 +49,7 @@ Using seaborn library, we can do some visual analysis on the given data:
 * Violin plot
 ![alt_text](https://github.com/ipieren/Music-genre-prediction/blob/main/img/violinplot.PNG)
 
-The dataset is also cleaned by removing NA values and dropping columns that were not useful.
+The dataset is cleaned by removing NA values and dropping columns that were not useful so that model building could be carried out.
 
 # Model Building
 
