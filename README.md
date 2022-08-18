@@ -29,7 +29,7 @@ Numeric:
 7. Liveness
 8. Loudness
 9. Speechiness
-10.Tempo
+10. Tempo
 11. Valence
 
 A total of 11 columns are numeric.
@@ -81,5 +81,5 @@ The ROC Curve for each of the classifier is given below:
 ![alt_text](https://github.com/ipieren/Music-genre-prediction/blob/main/img/m3_alteredXGBoost.PNG)
 
 # Conclusion and further improvements
-* Default XGBoost proved to be a better model with 93.1% AUC Score indicating that for the dataset at hand, this is a bit better choice than random forest classifier.
+* Default XGBoost proved to be a better model with 0.931 AUC Score indicating that for the dataset at hand, this is a bit better choice than random forest classifier.
 * Further hyperparameter tuning could be used for XGBoost. Since tuning using GridSearch consumes a lot of computational time, randomSearch method could be employed and the results may be improved accordingly.
